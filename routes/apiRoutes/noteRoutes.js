@@ -5,11 +5,11 @@ const {
 const {
     makeNewNote,
     deleteNote
-} = require('../../lib/notes');
+} = require('../../lib/notesFunc.js');
 
 
 router.get('/notes', (req, res) => {
-    let result = note;
+    let result = notes;
     res.json(result);
 })
 
