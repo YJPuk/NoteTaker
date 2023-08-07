@@ -1,5 +1,30 @@
 # 11 Express.js: Note Taker
 
+<hr>
+
+# Deployed app on Heroku: 
+https://whispering-caverns-08153-e1bd9bd9e17a.herokuapp.com/notes
+
+<hr>
+
+Description
+
+As coding student I'm trying to create a Note Taker application that is deployed on Heroku using an Express.js back end and saves and retrieves data from a JSON file to match the Acceptance Criteria listed in the task below. 
+
+The Note Taker includes
+<h4>&#x2022; A modified starter code </h4> 
+<h4>&#x2022; A note taker deployed on heroku </h4> 
+<h4>&#x2022; Upon opening the notes page through the landing page you are presented with a place to write your notes </h4> 
+<h4>&#x2022; Upon typing in the new note title and text a save icon appears </h4> 
+<h4>&#x2022; You can then save your note by pressing that icon then it will be displayed on the left column </h4> 
+<h4>&#x2022; You can click on the exisiting notes and it will show in the right column</h4> 
+<h4>&#x2022; When you click the + icon on the top right you are presented with empty fields to enter a new note </h4> 
+<h4>&#x2022; When you click the delete icon next to existing notes they will be deleted </h4>
+
+This was built using Node.js, Javascript, Express.js, Heroku and love.
+
+<hr>
+
 ## Your Task
 
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
