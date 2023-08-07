@@ -3,7 +3,7 @@
 <hr>
 
 # Deployed app on Heroku: 
-https://whispering-caverns-08153-e1bd9bd9e17a.herokuapp.com/notes
+https://whispering-caverns-08153-e1bd9bd9e17a.herokuapp.com/
 
 <hr>
 
